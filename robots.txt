@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://asig-x.github.io/sitemap.xml
